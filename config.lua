@@ -8,8 +8,7 @@ Config.keys = {
     ["1"] = 0xE6F612E4,
     ["2"] = 0x1CE6D9EB,
     ["B"] = 0x4CC0E2FE,
-	["R"] = 0x9D2AEA88,  
-
+	["R"] = 0x9D2AEA88,
 }
 
 Config.grave = {
@@ -19,12 +18,8 @@ Config.grave = {
     val2 = {
         Pos = {x = -436.36, y = 658.78, z = 112.00},
     },
-    
 }
-
-
 
 Config.Language = {
 deceased = "Press G to feed the body to the pigs",
-
 }
